@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello there 👋
 
+I'm Bia 
+(she/they)
+
+I have a physics degree in teaching and I teach programming to high school studentes
 <!--
 **brndaao/brndaao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
